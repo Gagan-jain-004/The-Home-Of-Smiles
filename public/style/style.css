@@ -54,7 +54,18 @@ html body{
 .container {
     margin-top:30px;
     padding:20px;
-    background-color: #ef86d3;
+    background-color: rgba(222, 150, 17, 0.582);
+
+    /*
+    background-color: 
+    background-color: rgb(236, 223, 204);
+    background-color: rgba(49, 169, 117, 0.955);
+    background-color: slategray;
+    background-color:rgba(23, 171, 216, 0.799);
+    
+    background-color:rgba(221, 31, 28, 0.536); 
+    */
+    /* background-color: #ef86d3;  */
     border-radius: 10px;
     box-shadow: 0 0 15px rgba(193, 243, 243, 0.1);
   }
