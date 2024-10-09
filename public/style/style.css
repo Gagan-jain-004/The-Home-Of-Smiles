@@ -54,10 +54,11 @@ html body{
 .container {
     margin-top:30px;
     padding:20px;
-    background-color: rgba(222, 150, 17, 0.582);
+    background-color: rgb(188, 242, 246);
+    
 
     /*
-    background-color: 
+    background-color: rgba(222, 150, 17, 0.582);
     background-color: rgb(236, 223, 204);
     background-color: rgba(49, 169, 117, 0.955);
     background-color: slategray;
